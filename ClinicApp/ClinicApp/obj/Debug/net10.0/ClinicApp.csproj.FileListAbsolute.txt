@@ -1,0 +1,160 @@
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\STUPID\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\1.SRP\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - copia\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\2.DIP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion\SOLID-SOFTWARE\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.Up2Date
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\3.OCP\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.Up2Date
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.exe
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.deps.json
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.runtimeconfig.json
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.dll
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\bin\Debug\net10.0\ClinicApp.pdb
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.AssemblyInfo.cs
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.dll
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\refint\ClinicApp.dll
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.pdb
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.genruntimeconfig.cache
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\ref\ClinicApp.dll
+C:\Users\marti\Desktop\Patrones del Software ejercicios\SOLID-STUPID\SOLID\lsp\ClinicApp\ClinicApp\obj\Debug\net10.0\ClinicApp.csproj.Up2Date
